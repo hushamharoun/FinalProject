@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Gmail">Gmail</string>
+    <string name="Canvas">Canvas</string>
+    <string name="Eservices">Eservices</string>
+    <string name="Transfer">Transfer</string>
+    <string name="Library">Library</string>
+    <string name="AcademicCalender">Academic Calender</string>
+</resources>
